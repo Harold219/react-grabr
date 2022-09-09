@@ -1,0 +1,11 @@
+.stepper{
+    background: rgb(255,255,255);
+    width: 100%;
+    display: flex;
+    justify-content: center;  
+    padding: 20px 0 16px 0; 
+}
+.step{
+    display: flex;
+    justify-content: center;
+}
